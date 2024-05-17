@@ -1,5 +1,4 @@
-// ignore_for_file: prefer_double_quotes, public_member_api_docs, prefer_single_quotes, lines_longer_than_80_chars, always_specify_types, avoid_catches_without_on_clauses
-
+//BD Shared Preferences para almancear datos de configuración inicial
 import 'dart:async';
 
 import 'package:flutter/material.dart';

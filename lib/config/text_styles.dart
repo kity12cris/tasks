@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:tasks/config/colors.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-
+//Definir el estilo de texto de forma personalizada
 class AppTextStyle {
   static final TextStyle bottonRegistry = TextStyle(
       color: CustomColors.secondColorCustom,

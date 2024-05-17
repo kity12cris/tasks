@@ -1,4 +1,6 @@
-import "package:flutter/material.dart";
+//rutas usando gestor GETX
+
+
 import 'package:get/route_manager.dart';
 import '../presentation/pages/login_page.dart';
 import '../presentation/pages/new_account_page.dart';

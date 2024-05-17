@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+//Colores personalizados segun la paleta seleccionada
 class CustomColors {
 
   static const Color firstColorCustom=Color(0xFF1f1f20);

@@ -145,7 +145,7 @@ class _LoginPageState extends State<LoginPage> {
           UserCredential? credentials = await loginByEmailAndPass(email,pass);
           if(credentials!=null){
             if(credentials.user!=null){
-                Navigator.pushAndRemoveUntil(context, MaterialPageRoute(builder: (context)=> HomePage(title: "Lista de Tareas")), (route) => false);
+                Navigator.pushAndRemoveUntil(context, MaterialPageRoute(builder: (context)=> HomePage()), (route) => false);
             }else{
               showToastError("Credenciales inválidas");
             }

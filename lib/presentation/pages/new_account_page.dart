@@ -1,6 +1,5 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:tasks/presentation/pages/home_page.dart';
 import '../../config/colors.dart';
 import '../../config/text_styles.dart';
 import 'package:fluttertoast/fluttertoast.dart';

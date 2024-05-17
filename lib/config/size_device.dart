@@ -1,5 +1,4 @@
-// ignore_for_file: avoid_classes_with_only_static_members,, prefer_double_quotes, lines_longer_than_80_chars, unused_field, public_member_api_docs
-
+//Según el tipo de dispositivo se obtiene los tamaños
 import 'package:flutter/material.dart';
 
 class SizeScaler {
